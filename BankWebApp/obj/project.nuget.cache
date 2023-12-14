@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3maymR82uWPX0B4JY28AhnJfLMemk/d/KczH/gnM1WrQytO8OI/AnfD5u2K3LcQbZVaCBu1rUiNV6YBA5pFBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\BankWebApp\\BankWebApp\\BankWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
